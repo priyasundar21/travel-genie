@@ -1,10 +1,9 @@
-import InputForm from "@/components/InputForm";
+import TravelPlanner from "@/components/TravelPlanner";
 
 export default function Home() {
   return (
     <div>
-      <h1>Hello from Travel Genie!</h1>
-      <InputForm/>
+      <TravelPlanner/>
     </div>
   );
 }
