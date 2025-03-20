@@ -47,7 +47,9 @@ const generateItinerary = async (
                                 ]
                             }
                         ]
-            and so on... DO NOT add unwanted texts or punctuations. Just the array with objects is enough as shown above`,
+            and so on... 
+            YOU MUST NOT ADD any punctutations, quotes or extra text. JUST THE ARRAY OF OBJECTS IS ENOUGH as shown above.
+            Time of the day should be Morning, Afternoon and Evening`,
           },
         ],
       },
